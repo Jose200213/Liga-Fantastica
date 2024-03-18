@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1618587280 source:c:\users\jorge\documents\apowersoft\modularidad\confplant.c
+	"confPlant.h"
+
+1616095552 c:\users\jorge\documents\apowersoft\modularidad\confplant.h
+	"tipos.h"
+
+1618504270 c:\users\jorge\documents\apowersoft\modularidad\tipos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1618588536 source:c:\users\jorge\documents\apowersoft\modularidad\acceso.c
+	<stdio.h>
+	<string.h>
+	"tipos.h"
+	"cargar.h"
+	"acceso.h"
+	"menus.h"
+
+1618512435 c:\users\jorge\documents\apowersoft\modularidad\cargar.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipos.h"
+
+1616084931 c:\users\jorge\documents\apowersoft\modularidad\acceso.h
+	"tipos.h"
+	"cargar.h"
+
+1616094759 c:\users\jorge\documents\apowersoft\modularidad\menus.h
+	"tipos.h"
+	"cargar.h"
+
+1617622110 source:c:\users\jorge\documents\apowersoft\modularidad\cargar.c
+	"cargar.h"
+
+1618419900 source:c:\users\jorge\documents\apowersoft\modularidad\guardar(todo).c
+	"guardar.h"
+
+1617641420 c:\users\jorge\documents\apowersoft\modularidad\guardar.h
+	"tipos.h"
+	"cargar.h"
+
+1616619618 source:c:\users\jorge\documents\apowersoft\modularidad\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menus.h"
+	"cargar.h"
+	"guardar.h"
+	"participante.h"
+
+1617640735 c:\users\jorge\documents\apowersoft\modularidad\participante.h
+	"tipos.h"
+	"cargar.h"
+
+1618587777 source:c:\users\jorge\documents\apowersoft\modularidad\printcargar.c
+	"tipos.h"
+	"cargar.h"
+
+1618588675 source:c:\users\jorge\documents\apowersoft\modularidad\registro.c
+	<stdio.h>
+	<string.h>
+	"tipos.h"
+	"cargar.h"
+	"registro.h"
+
+1616085583 c:\users\jorge\documents\apowersoft\modularidad\registro.h
+	"tipos.h"
+
+1618587379 source:c:\users\jorge\documents\apowersoft\modularidad\cronista.c
+	"tipos.h"
+	"cargar.h"
+	"cronista.h"
+	"menus.h"
+	"admin.h"
+
+1617625011 c:\users\jorge\documents\apowersoft\modularidad\cronista.h
+	"tipos.h"
+	"cargar.h"
+
+1616094518 c:\users\jorge\documents\apowersoft\modularidad\admin.h
+	"tipos.h"
+	"cargar.h"
+
+1618588926 source:c:\users\jorge\documents\apowersoft\modularidad\menus.c
+	"tipos.h"
+	"cargar.h"
+	"registro.h"
+	"acceso.h"
+	"menus.h"
+	"participante.h"
+	"cronista.h"
+	"admin.h"
+	"guardar.h"
+	"confPlant.h"
+
+1618587719 source:c:\users\jorge\documents\apowersoft\modularidad\participante.c
+	"participante.h"
+	"admin.h"
+
+1618588566 source:c:\users\jorge\documents\apowersoft\modularidad\admin.c
+	"admin.h"
+
+1618587438 source:c:\users\jorge\documents\apowersoft\modularidad\guardar.c
+	"guardar.h"
+

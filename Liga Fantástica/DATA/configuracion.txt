@@ -1,0 +1,3 @@
+Numero_maximo_equipos-3
+Presupuesto_defecto-80
+Numero_maximo_jugadores_equipo-11

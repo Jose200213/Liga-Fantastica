@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Modularidad" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Modularidad" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Modularidad" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="DATA/configuracion.txt" />
+		<Unit filename="DATA/equipos.txt" />
+		<Unit filename="DATA/futbolistas.txt" />
+		<Unit filename="DATA/jugadores_plantillas.txt" />
+		<Unit filename="DATA/plantillas.txt" />
+		<Unit filename="DATA/usuarios.txt" />
+		<Unit filename="Modularidad.cbp" />
+		<Unit filename="Modularidad.layout" />
+		<Unit filename="acceso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="acceso.h" />
+		<Unit filename="admin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="admin.h" />
+		<Unit filename="cargar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cargar.h" />
+		<Unit filename="confPlant.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="confPlant.h" />
+		<Unit filename="cronista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cronista.h" />
+		<Unit filename="guardar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="guardar.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menus.h" />
+		<Unit filename="participante.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="participante.h" />
+		<Unit filename="printCargar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="registro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="registro.h" />
+		<Unit filename="tipos.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

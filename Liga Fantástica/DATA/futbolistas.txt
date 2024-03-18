@@ -1,0 +1,100 @@
+00-01-Messi-17-0
+01-02-Kross-22-0
+02-01-Araujo-18-0
+03-03-Luis Suarez-13-0
+04-10-Juan Iglesias-9-0
+05-08-Sergio Garcia-16-0
+06-02-Sergio Ramos-14-0
+07-10-Orellana-10-0
+08-05-Rakitic-8-9
+09-04-Borja Iglesias-11-0
+10-02-Benzema-14-0
+11-11-Aspas-7-10
+12-06-Yeray-11-10
+13-13-Herrera-5-10
+14-03-Joao Felix-9-8
+15-01-Pique-6-8
+16-10-Yanez-0-8
+17-01-Dembele-14-0
+18-11-Ruben Blanco-6-0
+19-09-Rui Silva-9-0
+20-04-Fekir-7-0
+21-01-Ter Stegen-2-0
+22-04-Bartra-6-0
+23-04-Joaquin-10-0
+24-03-Correa-11-0
+25-04-William Carvalho-8-0
+26-04-Canales-3-0
+27-03-Oblak-7-0
+28-04-Camarasa-7-0
+29-18-Jordi Masip-4-0
+30-01-Sergio Busquets-7-0
+31-02-Isco-11-0
+32-01-Pedri-8-0
+33-03-Koke-7-0
+34-02-Asensio-9-0
+35-06-De Marcos-5-0
+36-02-Marcelo-5-0
+37-01-Frenkie De Jong-3-0
+38-02-Courtois-7-0
+39-07-Oyarzabal-6-0
+40-02-Casemiro-11-0
+41-07-Monreal-5-0
+42-06-Unai Simon-1-0
+43-08-Gabriel-6-0
+44-05-Ever Banega-5-0
+45-04-Juanmi-4-0
+46-03-Carrasco-3-0
+47-01-Jordi Alba-6-0
+48-08-Gaya-3-0
+49-07-Merino-6-0
+50-08-Piccini-1-0
+51-03-Hermoso-7-0
+52-12-Sergio Asenjo-11-0
+53-02-Vinicius Jr-4-0
+54-18-Samu Perez-2-0
+55-06-Dani Garcia-2-0
+56-04-Tello-6-0
+57-19-Ruben Duarte-2-0
+58-07-David Silva-1-0
+59-07-Lopez-1-0
+60-05-Jesus Navas-4-0
+61-10-Soria-4-0
+62-04-Guido Rguez-7-0
+63-17-Antonio Valera-1-0
+64-16-Luis Castillo-2-0
+65-05-Bono-2-0
+66-11-Dominguez-4-0
+67-05-Sergi Gomez-3-0
+68-06-Williams-2-0
+69-15-Ledesma-1-0
+70-19-Tachi-3-0
+71-13-Ruben Martinez-1-0
+72-15-David Gil-2-0
+73-11-Hugo Mallo-1-0
+74-12-Gaspar-3-0
+75-15-Fali-1-0
+76-09-Arnau-3-0
+77-16-Diego Gonzalez-1-0
+78-10-Damian Suarez-1-0
+79-04-Miranda-7-0
+80-06-Muniain-6-0
+81-12-Albiol-1-0
+82-12-Pau Torres-3-0
+83-05-Escudero-1-9
+84-20-Joel Rodriguez-3-0
+85-18-Raul Garcia-1-0
+86-14-Aitor Fernandez-1-0
+87-02-Varane-2-0
+88-09-Jimenez-1-0
+89-19-Laguardia-2-0
+90-01-Lenglet-4-0
+91-08-Molina-3-0
+92-04-Sidney-4-0
+93-05-De Jong-5-0
+94-19-Ximo Navarro-1-0
+95-05-Ocampos-3-0
+96-08-Jesus Vazquez-1-0
+97-18-Luis Perez-2-0
+98-14-Cardenas-1-0
+99-12-Alberto Moreno-2-0
